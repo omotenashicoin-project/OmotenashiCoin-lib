@@ -9,7 +9,7 @@
     "test": "gulp test",
     "coverage": "gulp coverage",
     "build": "gulp",
-    "submodule": "./node_modules/.bin/browserify  --require ./index.js:bitcore | uglifyjs > ./dist/bitcore.min.js | ./node_modules/.bin/browserify  --require ./index.js:bitcore >./dist/bitcore.js"
+    "submodule": "./node_modules/.bin/browserify  --require ./index.js:bitcore | uglifyjs > ./dist/bitcore.min.js | ./node_modules/.bin/browserify  --require ./index.js:bitcore >./dist/bitcore.js && cp ./dist/bitcore.js ."
   },
   "contributors": {
     "name": "Naoaki Kanie",
