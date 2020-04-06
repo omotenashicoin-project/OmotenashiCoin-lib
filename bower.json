@@ -2,7 +2,7 @@
   "name": "omotenashicoin-lib",
   "description": "A pure, powerful core for your OmotenashiCoin Project.",
   "version": "1.0.2",
-  "main": "bitcore.js",
+  "main": "./bitcore.js",
   "authors": [
     "OmotenashiCoin Project"
   ],
@@ -27,8 +27,5 @@
     "gulpfile.js",
     "npm-shrinkwrap.json",
     "karma.conf.js"
-  ],
-  "dependencies": {
-    "jquery": "jquery/jquery-dist#^3.4.1"
-  }
+  ]
 }
