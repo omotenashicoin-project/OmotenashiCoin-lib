@@ -3,7 +3,7 @@ Bitcore-MTNS Library
 
 OmotenashiCoin Javascript module.
 
-it is build in our other product.
+it is build in our other product (Wallet).
 
 ## build modules
 
