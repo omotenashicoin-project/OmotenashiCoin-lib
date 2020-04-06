@@ -1,0 +1,1 @@
+# omotenashicoin-lib
