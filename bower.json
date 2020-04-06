@@ -1,0 +1,31 @@
+{
+  "name": "omotenashicoin-lib",
+  "description": "A pure, powerful core for your OmotenashiCoin Project.",
+  "version": "1.0.2",
+  "main": "./bitcore.js",
+  "authors": [
+    "OmotenashiCoin Project"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "mtns",
+    "transaction",
+    "cryptocurrency",
+    "blockchain"
+  ],
+  "homepage": "https://github.com/omotenashicoin-project/OmotenashiCoin-lib",
+  "moduleType": [
+    "globals"
+  ],
+  "ignore": [
+    "CONTRIBUTING.md",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "lib",
+    "gulpfile.js",
+    "npm-shrinkwrap.json",
+    "karma.conf.js"
+  ]
+}
