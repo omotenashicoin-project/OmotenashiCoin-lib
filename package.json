@@ -33,7 +33,7 @@
     "bs58": "=2.0.0",
     "buffer-compare": "=1.0.0",
     "dashcore-build": "github:dashpay/bitcore-build-dash",
-    "elliptic": "=3.0.3",
+    "elliptic": "=6.5.3",
     "inherits": "=2.0.1",
     "lodash": "^4.17.15",
     "mocha": "^7.1.1",
